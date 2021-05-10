@@ -8,4 +8,4 @@ Das Projekt benutzt folgende Webtechnologien:
  * Bootstrap
 
 
-// Clone und lokales Einrichten folgt
+// Clone und lokales einrichten folgt
